@@ -6,4 +6,5 @@ Siapkan 3 variabel bilangan yaitu a, b, dan c. lalu masukkan input data ada vari
 ![img](Screenshot/ss1.png)
 
 Lalu ini flowchartnya
+
 ![img](Screenshot/ss2.png)
